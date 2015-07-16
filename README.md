@@ -28,3 +28,9 @@ UI特效大部分都是自己写的,有些功能都是非xmpp功能实现
 ui为了开发快速点用了故事板子
 
 ![image](https://github.com/fengss/Uplus_iOS/blob/master/img/IMG_1194.png)
+![image](https://github.com/fengss/Uplus_iOS/blob/master/img/IMG_1195.png)
+![image](https://github.com/fengss/Uplus_iOS/blob/master/img/IMG_1196.png)
+![image](https://github.com/fengss/Uplus_iOS/blob/master/img/IMG_1197.png)
+![image](https://github.com/fengss/Uplus_iOS/blob/master/img/IMG_1198.png)
+![image](https://github.com/fengss/Uplus_iOS/blob/master/img/IMG_1199.png)
+![image](https://github.com/fengss/Uplus_iOS/blob/master/img/IMG_1200.png)
